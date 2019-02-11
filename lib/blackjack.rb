@@ -1,7 +1,7 @@
 def welcome
   puts "Welcome to the Blackjack Table"
 end
-
+return rndm
 def deal_card
   
 end
